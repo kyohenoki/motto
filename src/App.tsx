@@ -22,14 +22,14 @@ function App() {
           <img src={saki} className='w-7 mb-1 ml-2 inline'/>
         </h2>
         <div className='text-2xl pt-3 border-b-2 border-neutral-500'>
-          <Sentaku cl='mr-2 pb-2' text='暮らし'/>
-          <Sentaku cl='mr-2 pb-2' text='観光'/>
+          <Sentaku cl='mr-3 pb-2' text='暮らし'/>
+          <Sentaku cl='mr-3 pb-2' text='観光'/>
           <Sentaku cl='pb-3' text='その他'/>                    
         </div>
         <div className='text-2xl pt-3'>
-          <Sentaku cl='mr-4 pb-2' text='手続き'/>
-          <Sentaku cl='mr-4 pb-2' text='ごみ資源'/>
-          <Sentaku cl='pb-3' text='その他'/> 
+          <Sentaku cl='mr-3 pb-2' text='手続き'/>
+          <Sentaku cl='mr-3 pb-2' text='ごみ'/>
+          <Sentaku cl='pb-3' text='税金'/> 
         </div>
       </div>
     </div>
