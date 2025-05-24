@@ -1,0 +1,5 @@
+name = "motto"
+compatibility_date = "2025-05-24"
+
+[assets]
+directory = "./dist"
